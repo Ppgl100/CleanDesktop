@@ -1,0 +1,10 @@
+C:\Users\Papagalos100\source\repos\CleanDesktop\CleanDesktop\bin\Debug\CleanDesktop.exe.config
+C:\Users\Papagalos100\source\repos\CleanDesktop\CleanDesktop\bin\Debug\CleanDesktop.exe
+C:\Users\Papagalos100\source\repos\CleanDesktop\CleanDesktop\bin\Debug\CleanDesktop.pdb
+C:\Users\Papagalos100\source\repos\CleanDesktop\CleanDesktop\obj\Debug\CleanDesktop.csprojAssemblyReference.cache
+C:\Users\Papagalos100\source\repos\CleanDesktop\CleanDesktop\obj\Debug\CleanDesktop.Form1.resources
+C:\Users\Papagalos100\source\repos\CleanDesktop\CleanDesktop\obj\Debug\CleanDesktop.Properties.Resources.resources
+C:\Users\Papagalos100\source\repos\CleanDesktop\CleanDesktop\obj\Debug\CleanDesktop.csproj.GenerateResource.cache
+C:\Users\Papagalos100\source\repos\CleanDesktop\CleanDesktop\obj\Debug\CleanDesktop.csproj.CoreCompileInputs.cache
+C:\Users\Papagalos100\source\repos\CleanDesktop\CleanDesktop\obj\Debug\CleanDesktop.exe
+C:\Users\Papagalos100\source\repos\CleanDesktop\CleanDesktop\obj\Debug\CleanDesktop.pdb
